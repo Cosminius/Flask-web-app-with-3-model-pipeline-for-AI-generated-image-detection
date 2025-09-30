@@ -1,4 +1,4 @@
-# 3-Model-pipeline-for-AI-generated-image-detection
+# 3 Model pipeline for AI generated image detection
 
 # AI Image Detection Flask App
 
